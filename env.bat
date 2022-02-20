@@ -1,4 +1,4 @@
-SET "OCC_PATH=D:\OCC\OpenCASCADE-7.4.0-vc14-64\opencascade-7.4.0"
+SET "OCC_PATH=E:\occ\OpenCASCADE-7.4.0-vc14-64\opencascade-7.4.0"
 
 call "%OCC_PATH%\env.bat" %1 %2 %3
 

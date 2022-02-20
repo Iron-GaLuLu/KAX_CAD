@@ -3,7 +3,7 @@
 Setlocal EnableDelayedExpansion
 
 rem Setup environment
-call "%~dp0env.bat" vc141 win64 %3
+call "%~dp0env.bat" vc142 win64 %3
 
 rem Define path to project file
 set "PRJFILE=KAX_CAD.sln"
